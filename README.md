@@ -33,7 +33,7 @@ El workshop de visualización de datos se imparte del 2 al 5 de julio (4 días a
 
 ### Dia 01 AD
 
-+ Introducción al analisi de datos
++ Introducción al análisis de datos
 + Introducción al concurso
 + Fuentes de datos, formatos, QGIS, excel...
 + Primer mapeado de una base de datos, utilizando QGIS
