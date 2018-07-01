@@ -1,4 +1,4 @@
-# CEU SUMMER SCHOOL 2018 - VISUALIZACION DE DATOS Y FABRICACION DIGITAL
+﻿# CEU SUMMER SCHOOL 2018 - VISUALIZACION DE DATOS Y FABRICACION DIGITAL
 
 ### MODULE 01: Urban Strategies and Technology
 
@@ -58,7 +58,7 @@ El workshop de visualización de datos se imparte del 2 al 5 de julio (4 días a
 
 ### Dia 01 DF
 
-+ Introducción al diseño parametrico
++ Introducción al diseño paramétrico
 + Introducción to Rhino
 + Introducción to Grasshopper
 + Diseño parametrico
