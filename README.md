@@ -1,7 +1,5 @@
 ﻿# CEU SUMMER SCHOOL 2018 - VISUALIZACION DE DATOS Y FABRICACION DIGITAL
 
-### MODULE 01: Urban Strategies and Technology
-
 ##### _dónde_ | Universidad Politecnica Ceu San Pablo, Madrid
 ##### _cúando_ | Julio 2th-14th, 2018
 ##### _profesores_ | Alba Alsina Maqueda, Irene Rodriguez Vara, Eduardo Chamorro Martin
