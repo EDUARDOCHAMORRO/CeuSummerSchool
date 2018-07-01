@@ -1,5 +1,7 @@
 ﻿# CEU SUMMER SCHOOL 2018 - VISUALIZACION DE DATOS Y FABRICACION DIGITAL
 
++ [Página web](https://eduardochamorro.github.io/CeuSummerSchool/index.html)
++ [Intro Web](https://eduardochamorro.github.io/CeuSummerSchool/)
 ##### _dónde_ | Universidad Politecnica Ceu San Pablo, Madrid
 ##### _cúando_ | Julio 2th-14th, 2018
 ##### _profesores_ | Alba Alsina Maqueda, Irene Rodriguez Vara, Eduardo Chamorro Martin
